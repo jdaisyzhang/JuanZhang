@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Researcher
 
-You can use the [editor on GitHub](https://github.com/jdaisyzhang/JuanZhang/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me
 
-### Markdown
+### Research Interest
+Mobile edge computing, Game Theory, Deep ReinforcementLearning, Decision Making Strategies
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Publications
+1. Pangwei  Wang,  Hui  Deng,Juan  Zhang*,  Li  Wang,  Mingfang  Zhang,and Yongfu Li, Model Predictive Control for Connected Vehicle Platoonunder  Switching  Communication  Topology.IEEE  Transactions  onIntelligent Transportation Systems
+2.Juan Zhang, Yulei Wu, Geyong Min.  System Revenue Maximization forOffloadingDecisions  in  Mobile  Edge  Computing.IEEE  InternationalConference on Communications.IEEE ICC 2021.(accept)
+3. Pangwei Wang, Yunfeng Wang, Hui Deng, Mingfang Zhang,Juan Zhang*,Multilane  Spatiotemporal  Trajectory  Optimization  Method  (MSTTOM)for Connected Vehicles.DOI: 10.1155/2020/8819911
+4. Juan Zhang, Yulei Wu, Geyong Min, Fei Hao, Laizhong Cui.  BalancingEnergy  Consumption  and  Reputation  Gain  of  UAV  Scheduling  in  EdgeComputing.IEEE  Transactions  on  Cognitive  Communicationsand Networking,DOI:10.1109/tccn.2020.3004592.(Q1, IF 8.0)
+5. Pangwei  Wang,  Hui  Deng,Juan  Zhang*,  Li  Wang,  Mingfang  Zhangand Yongfu Li.  Model Predictive Control (MPC) Method for ConnectedVehicle Platoon under Switching Communication Topology.
+6. Pangwei  Wang,  Hui  Deng,Juan  Zhang*,  Mingfang  Zhang.   Real-timeUrban Regional Route Planning Model for Connected Vehicles based onV2X  Communication.Journal  of  Transport  and  Land  Use,  DOI:10.5198/jtlu.2020.15987.
+7. Juan Zhang, Yawen Chen, Haibo Zhang, Fangfang Zhang.  QoE-awareand Energy-efficient Transmission of Multimedia Traffic in Wireless Networks.2018 International Conference on Sensor Networks and Signal Processing(SNSP). IEEE
+8. Juan  Zhang,  Guoqi  Li.   A  Novel  Model-Based  Method  for  AutomaticGeneration of FMEA.2nd International Symposium on Computer,Communication, Control andAutomation.  Shenyang.  May.  2013.
+9. Juan  Zhang,  Guoqi  Li  and  Xiao  Liu.    Compare  of  Formal  Analysisand  Testing  for  Verification  of  Safety-critical  Systems:   A  Case  Study.International Conference on Software Engineering and, InformationSystem, Xiamen.  May.  2013.
+10. Guoqi Li,Juan Zhang.  A Novel Ontology-Based Method to Representand Classify Failure Modes of Sensors.Sensors & Transducers Journal:(ISSN: 2306-8515, e-ISSN 1726-5479).  Nanjing.  Aug.  2013.
+11. Xiao  Yang,  Li  Guoqi  andZhang  Juan.   Passive  Data  Storage  BasedHousewares Store Management System.2011 International Conferenceon Web Information Systems and Mining (WISM).Taiyuan. 2011.
+12. Yuchao Zhang, Guoqi Li,Juan Zhang. QP Based Framework for Developmentand  Formal  Verification  of  Flight  Control  Software  of  UAV.AICI‘11Proceedings  of  the  Third  international  conference  on  Artificialintelligence and computational intelligence.  Taiyuan.  2011.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdaisyzhang/JuanZhang/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
