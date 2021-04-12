@@ -7,7 +7,7 @@
 Mobile edge computing, Game Theory, Deep ReinforcementLearning, Decision Making Strategies
 
 ### Publications
-1. Pangwei  Wang,  Hui  Deng, **Juan  Zhang***,  Li  Wang,  Mingfang  Zhang,and Yongfu Li, Model Predictive Control for Connected Vehicle Platoonunder  Switching  Communication  Topology.IEEE  Transactions  onIntelligent Transportation Systems
+1. Pangwei  Wang,  Hui  Deng, **Juan  Zhang^***,  Li  Wang,  Mingfang  Zhang,and Yongfu Li, Model Predictive Control for Connected Vehicle Platoonunder  Switching  Communication  Topology.IEEE  Transactions  onIntelligent Transportation Systems
 2.Juan Zhang, Yulei Wu, Geyong Min.  System Revenue Maximization forOffloadingDecisions  in  Mobile  Edge  Computing.IEEE  InternationalConference on Communications.IEEE ICC 2021.(accept)
 3. Pangwei Wang, Yunfeng Wang, Hui Deng, Mingfang Zhang,**Juan Zhang***,Multilane  Spatiotemporal  Trajectory  Optimization  Method  (MSTTOM)for Connected Vehicles.DOI: 10.1155/2020/8819911
 4. **Juan Zhang**, Yulei Wu, Geyong Min, Fei Hao, Laizhong Cui.  BalancingEnergy  Consumption  and  Reputation  Gain  of  UAV  Scheduling  in  EdgeComputing.IEEE  Transactions  on  Cognitive  Communicationsand Networking,DOI:10.1109/tccn.2020.3004592.(Q1, IF 8.0)
