@@ -1,6 +1,6 @@
 ## Juan Zhang
-Department of Computer Science, 
-University of Exeter, UK.
+Department of Computer Science, \\
+University of Exeter, UK.\\
 E-mail:
 Affiliation:
 ### Research Interest
