@@ -1,10 +1,11 @@
 ## Juan Zhang
-![Image of 3]
-(https://github.com/jdaisyzhang/JuanZhang/blob/gh-pages/3.jpg)
+
 Department of Computer Science, \\
 University of Exeter, UK.\\
 E-mail:
 Affiliation:
+![image of personal](https://github.com/jdaisyzhang/JuanZhang/blob/gh-pages/3.jpg)
+
 ### Research Interest
 Mobile Edge Computing, Game Theory, Deep ReinforcementLearning, Decision Making Strategies
 
