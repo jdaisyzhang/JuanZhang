@@ -1,11 +1,17 @@
 # Juan Zhang
 
-<img src="https://raw.githubusercontent.com/jdaisyzhang/jdaisyzhang.github.io/gh-pages/3.jpg" width="110"> 
-
-Department of Computer Science <br>
-College of Engineering, Mathematics and Physical Sciences<br>
+ <img src="https://raw.githubusercontent.com/jdaisyzhang/jdaisyzhang.github.io/gh-pages/3.jpg" style="float:left" width="150"> 
+ <div style="float: right;margin-right: 10px;">
+  
+Department of Computer Science <br> College of Engineering, Mathematics and Physical Sciences<br>
 University of Exeter<br>
-United Kingdom<br>
+United Kingdom<br>            
+
+
+
+
+
+
 
 E-mail: [jz397[at]exeter[dot]ac[dot]uk](jz397@exeter.ac.uk) <br>
 Affiliation: [SmartNetS](http://blogs.exeter.ac.uk/snslab/labmembers/)<br>
