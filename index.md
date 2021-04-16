@@ -2,8 +2,8 @@
 
 Department of Computer Science,  <br>
 University of Exeter, UK. <br>
-Email: jz397 AT exeter dot ac dot uk <br>
-[linkedin](https://www.linkedin.com/in/juan-zhang-94957076/)
+Email: [jz397[at]exeter[dot]ac[dot]uk](jz397@exeter.ac.uk) <br>
+[Linkedin](https://www.linkedin.com/in/juan-zhang-94957076/)
 
 
 ### Research Interest
