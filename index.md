@@ -6,7 +6,7 @@ Email: [jz397[at]exeter[dot]ac[dot]uk](jz397@exeter.ac.uk) <br>
 [Linkedin](https://www.linkedin.com/in/juan-zhang-94957076/)
 
 
-### Research Interest
+### Research Interests
 Mobile Edge Computing, Game Theory, Deep ReinforcementLearning, Decision Making Strategies <br>
 
 ### Teaching Experience
