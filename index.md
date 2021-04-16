@@ -1,7 +1,12 @@
 # Juan Zhang
 
-Department of Computer Science,  <br>
-University of Exeter, UK. <br>
+Department of Computer Science <br>
+College of Engineering, Mathematics and Physical Sciences<br>
+University of Exeter<br>
+Innovation Center <br>
+Exeter, EX4 4QF<br>
+United Kingdom<br>
+
 Email: [jz397[at]exeter[dot]ac[dot]uk](jz397@exeter.ac.uk) <br>
 Affiliation: [SmartNetS](http://blogs.exeter.ac.uk/snslab/labmembers/)<br>
 [Linkedin](https://www.linkedin.com/in/juan-zhang-94957076/)
