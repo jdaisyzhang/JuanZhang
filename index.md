@@ -1,12 +1,21 @@
 ## Juan Zhang
 
-Department of Computer Science,
-University of Exeter, UK.
-
+Department of Computer Science,  <br>
+University of Exeter, UK. <br>
+<jz397@exeter.ac.uk>
 
 
 ### Research Interest
-Mobile Edge Computing, Game Theory, Deep ReinforcementLearning, Decision Making Strategies
+Mobile Edge Computing, Game Theory, Deep ReinforcementLearning, Decision Making Strategies <br>
+
+### Teaching Experience
+* Software Development (ECM2414) <br>
+* Enterprise Computing (ECM3408) <br>
+* Learning from Data (ECM3420 \& ECMM445)<br>
+* Artificial Intelligence and Applications (ECM2423)<br>
+* Algorithms that Changed the World (ECM3428)<br>
+* Outside The Box: Computer Science Research and Applications (ECM2427)<br>
+* Formal Methods
 
 ### Publications
 11. Pangwei Wang,  Hui Deng, **Juan  Zhang***,  Li Wang,  Mingfang Zhang,and Yongfu Li, Model Predictive Control for Connected Vehicle Platoonunder Switching  Communication  Topology. IEEE Transactions on Intelligent Transportation Systems. (accept)
@@ -20,3 +29,5 @@ Mobile Edge Computing, Game Theory, Deep ReinforcementLearning, Decision Making 
 3. Guoqi Li, **Juan Zhang**. A Novel Ontology-Based Method to Representand Classify Failure Modes of Sensors.Sensors & Transducers Journal:(ISSN: 2306-8515, e-ISSN 1726-5479). Aug.  2013.
 2. Xiao  Yang, Li Guoqi and **Zhang Juan**. Passive Data Storage Based Housewares Store Management System.2011 International Conferenceon Web Information Systems and Mining (WISM). 2011.
 1. Yuchao Zhang, Guoqi Li, **Juan Zhang**. QP Based Framework for Developmentand  Formal  Verification of Flight Control Software of UAV. AICI‘11Proceedings of the Third international conference on Artificial intelligence and computational intelligence. 2011.
+
+### Project Experience
