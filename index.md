@@ -1,6 +1,6 @@
 # Juan Zhang
 
-![](https://raw.githubusercontent.com/jdaisyzhang/jdaisyzhang.github.io/gh-pages/3.jpg){:height="10%" width="10%"}|Department of Computer Science <br>
+![](https://raw.githubusercontent.com/jdaisyzhang/jdaisyzhang.github.io/gh-pages/3.jpg)|Department of Computer Science <br>
 College of Engineering, Mathematics and Physical Sciences<br>
 University of Exeter<br>
 <br> 
