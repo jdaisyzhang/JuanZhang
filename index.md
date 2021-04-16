@@ -1,7 +1,6 @@
 # Juan Zhang
 
-![](https://raw.githubusercontent.com/jdaisyzhang/jdaisyzhang.github.io/gh-pages/3.jpg)
-
+<img src="https://raw.githubusercontent.com/jdaisyzhang/jdaisyzhang.github.io/gh-pages/3.jpg" width="110"> 
 
 Department of Computer Science <br>
 College of Engineering, Mathematics and Physical Sciences<br>
