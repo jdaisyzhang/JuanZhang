@@ -37,17 +37,17 @@ Mobile Edge Computing, Game Theory, Deep ReinforcementLearning, Decision Making 
 ## Services
 ### Reviewer
 
- IEEE Transactions on Network and Service Management, 2021 <br>
+IEEE Transactions on Network and Service Management, 2021 <br>
 Sustainable Cities and Society, IF: 5.268 2021 <br>
- IEEE ISPA/BDCloud/SocialCom/SustainCom and IUCC, 2019  \&  2020<br>
+IEEE ISPA/BDCloud/SocialCom/SustainCom and IUCC, 2019  \&  2020<br>
 Blockchain'20, 2020 <br>
 IEEE Industrial Electronics Society, INDIN19, Multimedia Tools and Applications, Journal. IF: 2.313 2019 <br>
- Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys) 2019 <br>
- Journal of Risk and Reliability, IF: 1.602, 2018 <br>
- Mobile and Wireless Networking, IEEE ICC, 2017 <br>
+Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys) 2019 <br>
+Journal of Risk and Reliability, IF: 1.602, 2018 <br>
+Mobile and Wireless Networking, IEEE ICC, 2017 <br>
 
 
-### Local Arrangement Chair {17-19 Dec. 2020}
+### Local Arrangement Chair, 17-19 Dec. 2020
 
  The 13th IEEE International symposium on Social Computing and Networking (SocialCom-2020), Exeter, U.K. <br>
  The 18th IEEE International symposium on Parallel and Distributed Processing with Applications (ISPA-2020)<br>
