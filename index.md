@@ -41,11 +41,11 @@ Mobile Edge Computing, Game Theory, Deep ReinforcementLearning, Decision Making 
 ### Reviewer
 
 IEEE Transactions on Network and Service Management, 2021 <br>
-Sustainable Cities and Society, IF: 5.268 2021 <br>
+Sustainable Cities and Society, IF: 5.268, 2021 <br>
 IEEE ISPA/BDCloud/SocialCom/SustainCom and IUCC, 2019  \&  2020<br>
 Blockchain'20, 2020 <br>
 IEEE Industrial Electronics Society, INDIN19, Multimedia Tools and Applications, Journal. IF: 2.313 2019 <br>
-Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys) 2019 <br>
+Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys), 2019 <br>
 Journal of Risk and Reliability, IF: 1.602, 2018 <br>
 Mobile and Wireless Networking, IEEE ICC, 2017 <br>
 
