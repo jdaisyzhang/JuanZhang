@@ -3,6 +3,7 @@
 Department of Computer Science,  <br>
 University of Exeter, UK. <br>
 Email: [jz397[at]exeter[dot]ac[dot]uk](jz397@exeter.ac.uk) <br>
+Affiliation: [SmartNetS](http://blogs.exeter.ac.uk/snslab/labmembers/)<br>
 [Linkedin](https://www.linkedin.com/in/juan-zhang-94957076/)
 
 
