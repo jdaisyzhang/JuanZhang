@@ -38,7 +38,7 @@ Mobile Edge Computing, Game Theory, Deep ReinforcementLearning, Decision Making 
 
  IEEE Transactions on Network and Service Management, 2021 <br>
 Sustainable Cities and Society, IF: 5.268 2021 <br>
- IEEE ISPA/BDCloud/SocialCom/SustainCom and IUCC, 2019  \&  2020
+ IEEE ISPA/BDCloud/SocialCom/SustainCom and IUCC, 2019  \&  2020<br>
 Blockchain'20, 2020 <br>
 IEEE Industrial Electronics Society, INDIN19, Multimedia Tools and Applications, Journal. IF: 2.313 2019 <br>
  Dependability in Sensor, Cloud, and Big Data Systems and Applications (DependSys) 2019 <br>
@@ -58,6 +58,6 @@ IEEE Industrial Electronics Society, INDIN19, Multimedia Tools and Applications,
 
 ### Session Chairs
 
-+ The 20th IEEE International Conference on High Performance Computing and Communications (HPSS-2018), Exeter, UK. Jun. 2018 <br>
- 9th EAI International Conference  on Big Data Technologies and Applications (BDTA), Exeter, U.K. 4-5 Sep. 2018<br>
+The 20th IEEE International Conference on High Performance Computing and Communications (HPSS-2018), Exeter, UK. Jun. 2018 <br>
+9th EAI International Conference  on Big Data Technologies and Applications (BDTA), Exeter, U.K. 4-5 Sep. 2018<br>
 International Telecommunication Networks and Applications Conference (ITNAC), University of Otago, Dunedin, New Zealand. Dec. 2016<br>
